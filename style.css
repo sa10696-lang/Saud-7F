@@ -13,7 +13,7 @@ h2 {
   text-align: center;
 }
 h1 {
-  color: white;             /* Changes the color of all <h1> headings to white */
+  color: black;             /* Changes the color of all <h1> headings to white */
   text-align: center;       /* Centers the text for all <h1> headings */
 }
 /* Style for the main heading */
